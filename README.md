@@ -1,2 +1,2 @@
 # meicook-challenge
-MeiCook Code Challenge
+Please run unit tests. All code has been done in AccountService.java
